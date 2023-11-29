@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaqueline Benedicto</h1>
 <h3 align="center">Engineer. Developer. Photographer.</h3>
 
-<p align="left"> <img src="[https://www.upmasters.com/wp-content/uploads/2021/06/jay-avatar.png](https://avatars.githubusercontent.com/u/443219?v=4)" alt="soamazing" /> </p>
+<p align="left"> <img src="[[https://www.upmasters.com/wp-content/uploads/2021/06/jay-avatar.png](https://www.upmasters.com/wp-content/uploads/2023/11/photo_2023-11-28_21-33-20.jpg)](https://avatars.githubusercontent.com/u/443219?v=4)" alt="soamazing" /> </p>
 
 - 🔭 I’m currently working at [Itaú Unibanco](https://www.itau.com.br), São Paulo
 
