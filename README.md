@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working at [Itaú Unibanco](https://www.itau.com.br), São Paulo
 
-- 🤝 I’m looking for help with [Reactive Resume](https://github.com/Reactive-Resume/Reactive-Resume)
-
 - 👨‍💻 All of my projects are available at [https://github.com/soamazyng](https://github.com/soamazyng)
 
 - 📝 I regularly write articles on [https://www.upmasters.com](https://upmasters.com)
