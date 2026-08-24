@@ -1,19 +1,23 @@
 <h1 align="center">Hi 👋, I'm Jaqueline Benedicto</h1>
-<h3 align="center">Engineer. Developer. Photographer. Lawyer. </h3>
+<h3 align="center">Software Engineer. AI Developer. Lawyer.</h3>
 
 <p align="center"> <img src="https://www.upmasters.com/wp-content/uploads/2023/11/photo_2023-11-28_21-33-20_2-1-e1701218584998.jpg" alt="soamazyng" /> </p>
 
-- 🔭 I’m currently working at [Itaú Unibanco](https://www.itau.com.br), São Paulo
+- 🔭 I'm currently working at [Itaú Unibanco](https://www.itau.com.br), São Paulo
+
+- 🤖 I'm diving deeper into AI development, building LLM-powered applications and RAG (Retrieval-Augmented Generation) pipelines
+
+- 🧠 Check out [Copiloto da SupesAPI](https://github.com/soamazyng/Copiloto-da-SupesAPI), my RAG project built with LangChain, Chroma and OpenAI — a two-stage retrieval + generation pipeline with a conversational terminal chat
 
 - 👨‍💻 All of my projects are available at [https://github.com/soamazyng](https://github.com/soamazyng)
 
 - 📝 I regularly write articles on [https://www.upmasters.com](https://upmasters.com)
 
 - 💬 Ask me about anything, I am happy to help.
-  
+
 - 🚀 I love creating seamless user experiences and solving complex problems through code.
-  
-- 💼 I'm available for freelance web development projects. If you have any opportunities, feel free to [contact me](https://www.linkedin.com/in/soamazyng/)!
+
+- 💼 I'm available for freelance web development and AI projects. If you have any opportunities, feel free to [contact me](https://www.linkedin.com/in/soamazyng/)!
 
 - 📫 How to reach me **soamazing@gmail.com**
 
@@ -22,8 +26,74 @@
 <a href="https://linkedin.com/in/soamazing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soamazing" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">AI / GenAI Stack:</h3>
+<p align="left">
+  <img alt="Python" src="https://img.shields.io/badge/python-3.12%2B-3776AB?logo=python&logoColor=white">
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-RAG-1C3C3C?logo=langchain&logoColor=white">
+  <img alt="LLM" src="https://img.shields.io/badge/LLM-OpenAI-412991?logo=openai&logoColor=white">
+  <img alt="Hugging Face" src="https://img.shields.io/badge/Embeddings-Hugging%20Face-FFD21E?logo=huggingface&logoColor=black">
+  <img alt="Vector store" src="https://img.shields.io/badge/vector%20store-Chroma-FF6F61">
+  <img alt="Tests" src="https://img.shields.io/badge/tests-pytest-0A9EDC?logo=pytest&logoColor=white">
+</p>
+
+<h3 align="left">AI Coding Tools I use:</h3>
+<p align="left">
+    <a href="https://claude.com/claude-code" target="_blank" rel="noreferrer"> <img
+        src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/claude-icon.svg" alt="claude code"
+        width="40" height="40" /> </a>
+    <a href="https://www.anthropic.com" target="_blank" rel="noreferrer"> <img
+        src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/anthropic-icon.svg" alt="anthropic"
+        width="40" height="40" /> </a>
+    <a href="https://openai.com/codex" target="_blank" rel="noreferrer"> <img
+        src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/openai-icon.svg" alt="openai codex"
+        width="40" height="40" /> </a>
+    <a href="https://gemini.google.com" target="_blank" rel="noreferrer"> <img
+        src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/google-gemini.svg" alt="gemini"
+        width="60" height="40" /> </a>
+    <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer"> <img
+        src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/github-copilot.svg" alt="github copilot"
+        width="40" height="40" /> </a>
+    <a href="https://cursor.com" target="_blank" rel="noreferrer"> <img
+        src="https://cdn.simpleicons.org/cursor" alt="cursor"
+        width="40" height="40" /> </a>
+    <a href="https://devin.ai" target="_blank" rel="noreferrer"> <img
+        src="https://img.shields.io/badge/Devin-6E56CF?style=flat" alt="devin"
+        height="28" /> </a>
+</p>
+
+<h3 align="left">Featured project — RAG:</h3>
+<p align="left">
+  <a href="https://github.com/soamazyng/Copiloto-da-SupesAPI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=soamazyng&repo=Copiloto-da-SupesAPI" alt="Copiloto da SupesAPI" />
+  </a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
+        width="40" height="40" /> </a>
+    <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img
+        src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain"
+        width="40" height="40" /> </a>
+    <a href="https://openai.com" target="_blank" rel="noreferrer"> <img
+        src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/openai-icon.svg" alt="openai"
+        width="40" height="40" /> </a>
+    <a href="https://huggingface.co" target="_blank" rel="noreferrer"> <img
+        src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/hugging-face-icon.svg" alt="hugging face"
+        width="40" height="40" /> </a>
+    <a href="https://www.trychroma.com/" target="_blank" rel="noreferrer"> <img
+        src="https://avatars.githubusercontent.com/u/121155164?s=200&v=4" alt="chroma"
+        width="40" height="40" style="border-radius:50%" /> </a>
+    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow"
+        width="40" height="40" /> </a>
+    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch"
+        width="40" height="40" /> </a>
+    <a href="https://jupyter.org" target="_blank" rel="noreferrer"> <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter"
+        width="40" height="40" /> </a>
     <a href="https://docs.spring.io/" target="_blank" rel="noreferrer"> <img
         src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring boot" width="40" height="40" />
     </a>
@@ -80,9 +150,6 @@
         src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/insomnia.svg"
         alt="insomnia" width="40" height="40" />
     </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-        width="40" height="40" /> </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
         alt="react" width="40" height="40" /> </a>
