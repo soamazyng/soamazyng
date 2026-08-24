@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaqueline Benedicto</h1>
 <h3 align="center">Software Engineer. AI Developer. Lawyer.</h3>
 
-<p align="center"> <img src="https://www.upmasters.com/wp-content/uploads/2023/11/photo_2023-11-28_21-33-20_2-1-e1701218584998.jpg" alt="soamazyng" /> </p>
+<p align="center"> <img src="https://avatars.githubusercontent.com/u/443219?v=4" alt="soamazyng" /> </p>
 
 - 🔭 I'm currently working at [Itaú Unibanco](https://www.itau.com.br), São Paulo
 
