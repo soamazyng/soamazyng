@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/soamazyng](https://github.com/soamazyng)
 
-- 📝 I regularly write articles on [https://www.upmasters.com](https://upmasters.com)
-
 - 💬 Ask me about anything, I am happy to help.
 
 - 🚀 I love creating seamless user experiences and solving complex problems through code.
